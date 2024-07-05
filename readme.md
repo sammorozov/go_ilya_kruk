@@ -2,7 +2,7 @@
 - 2 lesson - xor, args, cli, packages
 - 3 lesson - arr, slices, cicles, graphs
 - 4 lesson - maps, oop, logger, mytypes
-- 5 lesson - ?
+- 5 lesson - 
 - 6 lesson - interfaces
 - 7 lesson - cli, cobra
 - 8 lesson - viper, configs
