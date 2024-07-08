@@ -44,7 +44,8 @@ func getUserInput() string {
 			fmt.Println("error")
 			continue
 		}
-
-		return strings.ToLower(strings.TrimRight(result, "\n"))
+		
+		// TrimSpace removes all leading and trailing whitespace, including '\n'
+		return strings.ToLower(strings.TrimSpace(result))
 	}
 }
